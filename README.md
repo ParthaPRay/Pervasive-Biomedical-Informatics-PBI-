@@ -1,9 +1,9 @@
-# Pervasive-Biomedical-Informatics-PBI-
+# Pervasive-Biomedical-Informatics-(PBI)
 
-This repo contains the article authors by Partha Partim Ray and Poulami Majumder who together coined a novel term"Pervasive Biomedical Informatics (PBI)" first time in the world.
+This repo contains the article authors by Partha Partim Ray and Poulami Majumder who together coined a novel term "Pervasive Biomedical Informatics (PBI)" first time in the world.
 
 
-# Novel term proposed by Partha Partim Ray and Poulami Majumder first time in the world.
+# Novel term "Pervasive Biomedical Informatics (PBI)" proposed by Partha Partim Ray and Poulami Majumder first time in the world in 2019.
 
 The novel article entitled "An Introduction to Pervasive Biomedical Informatics" coins the novel term "Pervasive Biomedical Informatics (PBI)" first time in the world. The novel paper was published in CSI Communications, July 2019, pp 33-34, Computer Society of India (CSI). 
 
